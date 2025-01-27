@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    
+}
+
+.container {
+    text-align: center;
+    
+}
+
+.login-box {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    width: 300px;
+    margin-bottom: 10px;
+    width: 57%;
+    height: 55%;
+}
+
+.logo {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 75%;
+    height: 75%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #dbdbdb;
+    border-radius: 3px;
+}
+
+button {
+    width: 80%;
+    height: 80%;
+    padding: 10px;
+    background-color: #3897f0;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.or {
+    margin: 10px 0;
+    color: #8e8e8e;
+    font-weight: bold;
+}
+
+.fb-login {
+    color: #385185;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.forgot-password {
+    display: block;
+    margin-top: 10px;
+    color: #00376b;
+    text-decoration: none;
+}
+
+.signup-box {
+    
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.signup-box a {
+    color: #3897f0;
+    text-decoration: none;
+    font-weight: bold;
+}
+.p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
